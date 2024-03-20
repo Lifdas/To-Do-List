@@ -1,0 +1,7 @@
+Bonjour et bienvenue dans ce prototype de maquette navigable entièrement réalisée par Florian Potier-Clemente avec l'assistance de CHAT GPT pour le CSS et basé sur le figma de Florian trouvable dans ce dossier zip.
+
+Vous noterez que les pages administration et chercher par catégorie sont manquantes en raison de manque de temps suite à une organisation douteuse par le créateur.
+
+Pour accèder à la vue Administrateur je vous suggère d'ouvrir en premier lieu le fichier To_Do_accueil_admin.
+
+à bientôt !
